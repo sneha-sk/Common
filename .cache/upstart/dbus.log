@@ -1,0 +1,179 @@
+Activating service name='org.ayatana.bamf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+
+** (at-spi2-registryd:1797): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:1797): WARNING **: Unable to register client with session manager
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'org.ayatana.bamf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Activating service name='com.canonical.indicator.keyboard'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'com.canonical.indicator.keyboard'
+Successfully activated service 'org.gnome.ScreenSaver'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.freedesktop.Notifications'
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.Engine'
+Successfully activated service 'com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+** Message: Index must be upgraded. Doing full rebuild
+
+** (zeitgeist-datahub:2670): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-fts:2669): WARNING **: Unable to get info on application://zeitgeist-datahub.desktop
+** Message: Lost the name, shutting down.
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: platform-info.vala:112: Unable to read SIM properties: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Activating service name='com.canonical.Unity.Scope.Music'
+
+(process:2711): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Failed to open file '/home/sannidhi/.gtk-bookmarks': No such file or directory
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Music'
+
+(unity-music-daemon:2713): unity-music-daemon-WARNING **: rhythmbox-collection.vala:510: Unable to open album-art DB!
+
+(unity-music-daemon:2713): unity-music-daemon-WARNING **: rhythmbox-collection.vala:574: Error while parsing rhythmbox DB: Error opening file: No such file or directory
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/sannidhi/.cache/oneconf/39f15c61c1fae426e63db5d554b49f70/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4
+
+(unity-scope-home:2695): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 4

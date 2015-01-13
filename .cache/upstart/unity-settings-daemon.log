@@ -1,0 +1,12 @@
+
+(unity-settings-daemon:1911): GnomeDesktop-WARNING **: Timed out waiting for GL_MAX_TEXTURE_SIZE helper
+
+(unity-settings-daemon:1911): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(unity-settings-daemon:1911): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(unity-settings-daemon:1911): keyboard-plugin-WARNING **: Unhandled settings change, key 'input-sources-switcher'
+
+(unity-settings-daemon:1911): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1911): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
