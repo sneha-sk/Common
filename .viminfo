@@ -21,17 +21,50 @@
 # Registers:
 
 # File marks:
-'0  5  0  ~/hello.c
-'1  1  0  ~/hello.c
+'0  5  0  ~/try2.c
+'1  1  0  ~/gitignore
+'2  6  28  ~/hello.c
+'3  5  0  ~/hello.c
+'4  1  0  ~/hello.c
 
 # Jumplist (newest first):
--'  5  0  ~/hello.c
+-'  5  0  ~/try2.c
+-'  1  0  ~/try2.c
+-'  1  0  ~/gitignore
+-'  6  28  ~/hello.c
 -'  1  0  ~/hello.c
+-'  5  0  ~/hello.c
+-'  6  28  ~/hello.c
+-'  1  0  ~/hello.c
+-'  5  0  ~/hello.c
+-'  1  0  ~/gitignore
+-'  6  28  ~/hello.c
+-'  1  0  ~/hello.c
+-'  5  0  ~/hello.c
+-'  6  28  ~/hello.c
+-'  1  0  ~/hello.c
+-'  5  0  ~/hello.c
 
 # History of marks within files (newest to oldest):
 
-> ~/hello.c
+> ~/try2.c
 	"	5	0
 	^	5	1
 	.	5	0
+	+	2	11
+	+	2	0
+	+	3	1
 	+	5	0
+
+> ~/gitignore
+	"	1	0
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/hello.c
+	"	6	28
+	^	6	29
+	.	6	28
+	+	5	30
+	+	6	28
